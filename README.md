@@ -32,10 +32,3 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 Special thanks to the open-source community and the AutoHotkey developers for providing such a powerful and flexible scripting language. Your contributions and dedication make projects like this possible.
-
-
-**`.gitignore`**
-```gitignore
-# Ignore AutoHotkey compiled scripts
-*.exe
-*.ahk~
